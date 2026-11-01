@@ -35,3 +35,9 @@ Use today's date or an earlier date to publish immediately. Future-dated posts a
 To use a cover photo, add it under `assets/images/` and set `image: /assets/images/your-photo.jpg` and `image_alt: "Describe the photo"` in the front matter. The latest article's cover also appears on the homepage; without a cover it uses the botanical illustration.
 
 For local commits, follow the contribution identity in `AGENTS.md`.
+
+## Course outline
+
+Navigate the complete indoor-growing course at [helloplantworld.github.io/course-outline/](https://helloplantworld.github.io/course-outline/). It contains 73 videos across 13 modules, with discussion points, equipment lists, optional demonstrations, and Shorts/Reels ideas.
+
+Edit `course-outline/index.html` for the published page and keep `course-outline/course-outline.md` in sync as its downloadable text edition. The standalone HTML is served directly by GitHub Pages; its module navigation and lesson anchors work without JavaScript. The course link appears in the site header.
