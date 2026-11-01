@@ -23,6 +23,7 @@ body { line-height: 1.7; }
 .post-link { font-weight: 650; }
 a { text-underline-offset: 4px; }
 a:hover { color: #203d32; text-decoration-thickness: 2px; }
+.site-title:hover, .site-nav .page-link:hover { color: #f2d68a; }
 a:focus-visible, label:focus-visible { outline: 3px solid #203d32; outline-offset: 4px; }
 .site-header a:focus-visible { outline-color: #f2d68a; }
 .site-footer { background: #e8eddf; border-top-color: #d9dfd5; }
