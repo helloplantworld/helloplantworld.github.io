@@ -8,7 +8,7 @@
   <meta name="theme-color" content="#203d32">
   <link rel="icon" href="{{ '/assets/sprout.svg' | relative_url }}" type="image/svg+xml">
   <link rel="preload" href="{{ '/assets/fonts/anton.ttf' | relative_url }}" as="font" type="font/ttf" crossorigin>
-  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 </head>
 <body class="{% if page.layout == 'home' %}is-home{% else %}is-article{% endif %}">
   <a class="skip-link" href="#main">Skip to content</a>
