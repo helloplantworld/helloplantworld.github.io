@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Hello, Plant World!
+title: A growing journal
 ---
 
-Welcome to my little corner of the internet. I'm Naren, and this is where I share my plant stories and growing adventures.
+I share my plant stories on YouTube as Hello Plant World. This journal is a place to slow down, write a little more, and share what I'm learning along the way.
 
-Let's grow together. 🌱
+Whether you're tending your first plant or making room for one more, you're welcome here.

@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="{{ page.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  {% feed_meta %}
+  <meta name="theme-color" content="#203d32">
+  <link rel="icon" href="{{ '/assets/sprout.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="preload" href="{{ '/assets/fonts/anton.ttf' | relative_url }}" as="font" type="font/ttf" crossorigin>
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+</head>
+<body class="{% if page.layout == 'home' %}is-home{% else %}is-article{% endif %}">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="shell header-inner">
+      <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="Hello Plant World home">
+        <img src="{{ '/assets/sprout.svg' | relative_url }}" width="38" height="38" alt="">
+        <span>Hello Plant World<span class="wordmark-dot">.</span></span>
+      </a>
+      <nav aria-label="Main navigation">
+        <a href="{{ '/#journal' | relative_url }}">Journal</a>
+        <a href="{{ '/about/' | relative_url }}" {% if page.url == '/about/' %}aria-current="page"{% endif %}>About</a>
+        <a class="nav-rss" href="{{ '/feed.xml' | relative_url }}">Follow via RSS <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </header>
+  <main id="main">{{ content }}</main>
+  <footer class="site-footer">
+    <div class="shell footer-inner">
+      <div><a class="footer-brand" href="{{ '/' | relative_url }}">Hello Plant World.</a><p>A little more green. A little more wonder.</p></div>
+      <div class="footer-links"><a href="{{ '/about/' | relative_url }}">About the journal</a><a href="{{ '/feed.xml' | relative_url }}">RSS feed ↗</a><span>© {{ 'now' | date: '%Y' }} Hello Plant World</span></div>
+    </div>
+  </footer>
+</body>
+</html>
