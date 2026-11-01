@@ -1,0 +1,18 @@
+title: Hello Plant World
+author: Naren
+description: Plants, stories, and growing adventures.
+url: "https://helloplantworld.github.io"
+baseurl: ""
+timezone: Asia/Kolkata
+theme: minima
+show_excerpts: true
+permalink: /:year/:month/:day/:title/
+header_pages:
+  - about.md
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
