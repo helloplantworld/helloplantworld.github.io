@@ -884,6 +884,8 @@ A practical library progressing from beginner care to confidently managing a lar
 
 ## Related resources
 
+- [Learner course overview](https://helloplantworld.github.io/course-outline/overview/)
+
 - [Previously collected external courses](https://github.com/narendravardi/dumpster/blob/plant-course/plant-course/README.md)
 - [HTML edition](https://helloplantworld.github.io/course-outline/)
 - [Hello Plant World on YouTube](https://www.youtube.com/@helloplantworld)
