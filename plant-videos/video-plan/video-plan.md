@@ -1,63 +1,53 @@
 # Grow Indoors with Hello Plant World
 
-## Course purpose
+## Standalone plant videos and posts
 
-A practical library progressing from beginner care to confidently managing a large collection and mastering propagation. India is the primary context, with Bangalore examples and adaptable principles for other tropical regions. Demonstrations use the creator’s own pothos, alocasias, philodendrons, monsteras and anthuriums; exact varieties will be named during filming.
+A flexible collection of video ideas drawn from your own plants and growing experience. Each video answers one question or demonstrates one task, and can have its own journal post. Group related videos through a YouTube playlist and links between posts; viewers can start wherever their interests take them.
 
-## Teaching and filming approach
+The examples focus on Indian homes, especially Bangalore, with principles adaptable to other tropical conditions. Use your own pothos, alocasias, philodendrons, monsteras and anthuriums.
 
-- Most lessons target 3–7 minutes; complete demonstrations may run longer. These are editorial suggestions, not a release schedule.
-- Every practical is optional. Learners can follow along or choose projects that suit their plants, space and budget.
-- Show the problem or question, demonstrate the method, explain the decision, and include results or follow-up footage where relevant.
-- Introduce equipment in the tools lesson and repeat the relevant checklist before each practical.
-- Capture a self-contained segment from each lesson for a YouTube Short or Instagram Reel. Reframe the shot and keep necessary context rather than relying only on a crop.
-- Demonstrate your own substrate recipes and feeding routines; record measured ratios and products when filming rather than inventing them in this outline.
-- Adjust care to actual conditions; include seasonal detail only where a specific plant needs it.
-- LECA instruction covers your practical routine without pH or EC meter lessons. Pon and hands-on tissue culture are outside the scope.
+## Publishing approach
 
-## Course map
+- The topics below are an idea bank, not a required viewing or publishing sequence.
+- A separate [1–2 minute video plan](/plant-videos/short-video-plan/) splits broad demonstrations into focused posts. Use this longer idea bank for background and preparation.
+- Each post should work on its own: state the question, show the relevant plant and setup, demonstrate one action, and explain the observation or result.
+- Link each published video to the shared playlist, the video collection page, and a useful related post.
+- Separate setup, progress and results into their own videos when a process takes time. Give every update enough context to stand alone.
+- Viewers can explore the methods that suit their plants, space and budget. Equipment builds and practicals are optional.
+- Use actual measured ratios, products and observations from your own setups. Adjust care to conditions rather than prescribing a fixed calendar.
+- LECA examples use your own feeding routine without pH or EC meter instruction. Pon and hands-on tissue culture remain outside these topics.
 
-1. [Start growing indoors](#module-1) — 5 videos · Beginner
-2. [Read your growing conditions](#module-2) — 4 videos · Beginner
-3. [Pots and homemade substrates](#module-3) — 7 videos · Beginner to intermediate
-4. [Watering and fertilizing](#module-4) — 6 videos · Beginner to intermediate
-5. [Repotting and everyday maintenance](#module-5) — 5 videos · Intermediate
-6. [Care for the plants in your collection](#module-6) — 5 videos · Intermediate
-7. [Propagation from first cuttings to advanced methods](#module-7) — 11 videos · Intermediate to advanced
-8. [Diagnose problems and follow recovery](#module-8) — 7 videos · Intermediate to advanced
-9. [Grow lights and growing shelves](#module-9) — 4 videos · Advanced optional setup
-10. [IKEA grow-light cabinets](#module-10) — 4 videos · Advanced optional setup
-11. [LECA and low-maintenance money plants](#module-11) — 6 videos · Advanced optional method
-12. [Manage a growing collection](#module-12) — 5 videos · Advanced
-13. [Small closed fittonia terrarium](#module-13) — 4 videos · Optional practical project
+## Browse by topic
+
+1. [Start growing indoors](#module-1) — 5 video ideas
+2. [Read your growing conditions](#module-2) — 4 video ideas
+3. [Pots and homemade substrates](#module-3) — 7 video ideas
+4. [Watering and fertilizing](#module-4) — 6 video ideas
+5. [Repotting and everyday maintenance](#module-5) — 5 video ideas
+6. [Care for the plants in your collection](#module-6) — 5 video ideas
+7. [Propagation from first cuttings to advanced methods](#module-7) — 11 video ideas
+8. [Diagnose problems and follow recovery](#module-8) — 7 video ideas
+9. [Grow lights and growing shelves](#module-9) — 4 video ideas
+10. [IKEA grow-light cabinets](#module-10) — 4 video ideas
+11. [LECA and low-maintenance money plants](#module-11) — 6 video ideas
+12. [Manage a growing collection](#module-12) — 5 video ideas
+13. [Small closed fittonia terrarium](#module-13) — 4 video ideas
 
 <a id="module-1"></a>
 ## 1. Start growing indoors
 
-**Level:** Beginner
-
 **Equipment and materials:** Watering vessel, tray, scissors, knife, work mat, measuring cup, bottles, containers, labels, gloves and cleaning supplies.
 
-### Video 01: Meet your instructor and welcome to the course
+### Video 01: Meet my plants and growing spaces
 
-**Suggested length:** 2–3 minutes. Film this before the practical lessons.
+- Introduce yourself as the creator of Hello Plant World.
+- Share one real moment or mistake from your plant-growing experience.
+- Show the plants and spaces that feature in your videos.
+- Invite viewers to explore the topics they enjoy and browse related videos through a playlist.
 
-- Introduce yourself by name and as the creator of Hello Plant World.
-- Share how you started growing plants and one real success or mistake that shaped your approach; use your own story rather than a scripted biography.
-- Explain why you created this course and how it brings together your practical learnings.
-- Show your own pothos, alocasias, philodendrons, monsteras and anthuriums as examples learners will meet.
-- Describe the journey from first-plant care to managing a larger collection and mastering propagation.
-- Explain the India-first context, Bangalore growing examples and how learners in other tropical places can adapt the principles.
-- Explain how to use the short lesson library: follow the progression or revisit a specific task; all practicals and equipment builds are optional.
-- Invite learners to start with their existing plants, space and tools, and observe results instead of expecting identical outcomes.
+**Optional demonstration:** Give a brief tour with close-ups of your own plants.
 
-**Optional demonstration:** Film a short introduction among your plants, with close-ups of the collection and a few examples of propagation, LECA and the fittonia terrarium. Choose your starting space at the end.
-
-**Short / Reel angle:** Why I created this course and what I want you to grow confident doing.
-
-**Suggested spoken opening:**
-
-> Hi, I’m [your name], the creator of Hello Plant World. In this course, I’ll share what I’ve learned from growing and propagating my own plants—the methods that work for me, the mistakes I’ve made, and how I make care decisions. We’ll start with the basics and gradually explore propagation, larger collections, LECA, grow lights and more. I’ll use Indian growing conditions, including Bangalore examples, and explain how you can adapt the ideas to your own space. You can follow along with the practicals you enjoy, using the plants and tools you already have. Let’s start by getting to know your growing space.
+**Short / Reel angle:** A little corner of my plant world.
 
 ### Video 02: Tools and a practical workspace
 
@@ -73,7 +63,7 @@ A practical library progressing from beginner care to confidently managing a lar
 
 - Start with available light, space and care capacity.
 - Compare growth habits rather than buying by appearance alone.
-- Use your own varieties throughout the course.
+- Use your own varieties across your videos.
 
 **Optional demonstration:** Compare a pothos with a more demanding plant in your collection.
 
@@ -102,8 +92,6 @@ A practical library progressing from beginner care to confidently managing a lar
 
 <a id="module-2"></a>
 ## 2. Read your growing conditions
-
-**Level:** Beginner
 
 **Equipment and materials:** Humidity and temperature meter, notebook or phone camera; optional light-measuring tool.
 
@@ -150,8 +138,6 @@ A practical library progressing from beginner care to confidently managing a lar
 
 <a id="module-3"></a>
 ## 3. Pots and homemade substrates
-
-**Level:** Beginner to intermediate
 
 **Equipment and materials:** Mixing tub, work mat, scoop, measuring cup or identical containers, optional sieve, drainage pots and trays; coco chips, cocopeat, orchid bark, perlite, pumice, charcoal and compost.
 
@@ -229,8 +215,6 @@ A practical library progressing from beginner care to confidently managing a lar
 <a id="module-4"></a>
 ## 4. Watering and fertilizing
 
-**Level:** Beginner to intermediate
-
 **Equipment and materials:** Watering can or bottle, drainage tray, potting-mix moisture meter, graduated jug, measuring spoon or syringe, fertilizer used in your demonstrations.
 
 ### Video 17: Decide whether a plant needs water
@@ -297,8 +281,6 @@ A practical library progressing from beginner care to confidently managing a lar
 <a id="module-5"></a>
 ## 5. Repotting and everyday maintenance
 
-**Level:** Intermediate
-
 **Equipment and materials:** Work mat, pots, tray, prepared substrate, scissors, clean knife, root-loosening tool, soft cloth, supports and plant ties.
 
 ### Video 23: Decide whether to repot
@@ -355,8 +337,6 @@ A practical library progressing from beginner care to confidently managing a lar
 <a id="module-6"></a>
 ## 6. Care for the plants in your collection
 
-**Level:** Intermediate
-
 **Equipment and materials:** Your own pothos, alocasias, philodendrons, monsteras and anthuriums; their actual pots, substrates and supports.
 
 ### Video 28: Pothos care with my varieties
@@ -412,8 +392,6 @@ A practical library progressing from beginner care to confidently managing a lar
 
 <a id="module-7"></a>
 ## 7. Propagation from first cuttings to advanced methods
-
-**Level:** Intermediate to advanced
 
 **Equipment and materials:** Clean scissors, knife, bottles, small pots, containers, work mat, labels, propagation box, suitable rooting medium, wrapping and ties for air layering.
 
@@ -531,8 +509,6 @@ A practical library progressing from beginner care to confidently managing a lar
 <a id="module-8"></a>
 ## 8. Diagnose problems and follow recovery
 
-**Level:** Intermediate to advanced
-
 **Equipment and materials:** Flashlight, magnifying glass, camera, clean cutting tools, dedicated spray bottle, gloves and treatment-specific equipment.
 
 ### Video 44: Inspect a struggling plant systematically
@@ -609,8 +585,6 @@ A practical library progressing from beginner care to confidently managing a lar
 <a id="module-9"></a>
 ## 9. Grow lights and growing shelves
 
-**Level:** Advanced optional setup
-
 **Equipment and materials:** Grow lights, timer, stable shelf, suitable mounting hardware and cable-management materials.
 
 ### Video 51: Choose a grow light for your plants
@@ -657,8 +631,6 @@ A practical library progressing from beginner care to confidently managing a lar
 <a id="module-10"></a>
 ## 10. IKEA grow-light cabinets
 
-**Level:** Advanced optional setup
-
 **Equipment and materials:** An IKEA cabinet suitable for your project, grow lights, fans, mounting hardware, humidity and temperature meter, trays, timer and cable management.
 
 ### Video 55: Plan an IKEA cabinet conversion
@@ -704,8 +676,6 @@ A practical library progressing from beginner care to confidently managing a lar
 
 <a id="module-11"></a>
 ## 11. LECA and low-maintenance money plants
-
-**Level:** Advanced optional method
 
 **Equipment and materials:** LECA, clear or inspectable containers, drainage inner pots, separate reservoirs, bottles, measuring jug, selected semi-hydro nutrients and labels.
 
@@ -773,8 +743,6 @@ A practical library progressing from beginner care to confidently managing a lar
 <a id="module-12"></a>
 ## 12. Manage a growing collection
 
-**Level:** Advanced
-
 **Equipment and materials:** Labels, plant register or spreadsheet, trays, inspection tools, an observation area for incoming plants and a practical storage system.
 
 ### Video 65: Group plants by care needs
@@ -831,8 +799,6 @@ A practical library progressing from beginner care to confidently managing a lar
 <a id="module-13"></a>
 ## 13. Small closed fittonia terrarium
 
-**Level:** Optional practical project
-
 **Equipment and materials:** Small lidded glass container, fittonias, suitable substrate materials, scoop, funnel, long tweezers, small scissors and narrow-spout watering bottle.
 
 ### Video 70: Choose the container and prepare materials
@@ -875,7 +841,7 @@ A practical library progressing from beginner care to confidently managing a lar
 
 **Short / Reel angle:** Keeping a fittonia terrarium manageable.
 
-## Filming decisions to fill in
+## Filming details to record
 
 - Exact varieties and individual plants available for each demonstration.
 - Actual substrate ratios, product names, nutrient dilution and feeding frequency used in each setup.
@@ -884,8 +850,8 @@ A practical library progressing from beginner care to confidently managing a lar
 
 ## Related resources
 
-- [Learner course overview](https://helloplantworld.github.io/course-outline/overview/)
+- [Video collection](https://helloplantworld.github.io/plant-videos/)
 
-- [Previously collected external courses](https://github.com/narendravardi/dumpster/blob/plant-course/plant-course/README.md)
-- [HTML edition](https://helloplantworld.github.io/course-outline/)
+- [Background resources](https://github.com/narendravardi/dumpster/blob/plant-course/plant-course/README.md)
+- [HTML edition](https://helloplantworld.github.io/plant-videos/video-plan/)
 - [Hello Plant World on YouTube](https://www.youtube.com/@helloplantworld)

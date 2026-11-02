@@ -17,3 +17,7 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - templates
+
+# Set this to the shared YouTube playlist once created.
+plant_video_playlist_url: ""

@@ -36,10 +36,14 @@ To use a cover photo, add it under `assets/images/` and set `image: /assets/imag
 
 For local commits, follow the contribution identity in `AGENTS.md`.
 
-## Course outline
+## Plant videos and posts
 
-Navigate the complete indoor-growing course at [helloplantworld.github.io/course-outline/](https://helloplantworld.github.io/course-outline/). It contains 73 videos across 13 modules, with discussion points, equipment lists, optional demonstrations, and Shorts/Reels ideas.
+The [plant video collection](https://helloplantworld.github.io/plant-videos/) presents independent videos and posts, grouped by interest and connected through a shared YouTube playlist.
 
-Edit `course-outline/index.html` for the published page and keep `course-outline/course-outline.md` in sync as its downloadable text edition. The standalone HTML is served directly by GitHub Pages; its module navigation and lesson anchors work without JavaScript. The course link appears in the site header.
+- `plant-videos/index.md`: public topic hub; published posts with category `plant-videos` appear automatically.
+- `plant-videos/short-video-plan/`: separate 1–2 minute plan with discussion points for each video.
+- `plant-videos/video-plan/`: broader original idea bank and preparation notes.
+- `templates/plant-video-post.md`: copy into `_posts` and complete it for each standalone video. This directory is excluded from publication.
+- `_config.yml`: set `plant_video_playlist_url` to the actual shared playlist URL. Until it is supplied, the hub links to the channel’s playlists page.
 
-The [learner course overview](https://helloplantworld.github.io/course-outline/overview/) explains learning outcomes, the progression through all 13 modules, and optional practicals. Edit `course-outline/overview.md` for that page. The homepage and main navigation lead to this overview; the detailed creator outline remains at `/course-outline/`.
+Each video post should introduce its own context, link its video, and point to the playlist and relevant published posts. Publish and watch in any order. The homepage and main navigation lead to `/plant-videos/`; previous addresses redirect to the appropriate new page.
